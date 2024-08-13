@@ -1,0 +1,4 @@
+stable-audio-tools
+fastapi[standard]
+flask
+flask_socketio

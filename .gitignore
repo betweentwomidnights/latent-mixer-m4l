@@ -1,0 +1,19 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+/latent-mixer/node_modules/
+vae.ckpt
+
+/latent-mixer/bin/
+/latent-mixer/include/
+/latent-mixer/etc/
+/latent-mixer/lib/
+/latent-mixer/share/
