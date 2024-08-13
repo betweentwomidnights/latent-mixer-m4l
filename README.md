@@ -3,6 +3,8 @@
 
 This repo is the start of the Max for Live device for the latent-mixer by Aaron Abebe.
 
+![Latent Mixer](./latent_mixer.gif)
+
 ---
 
 ## Project Overview
