@@ -127,7 +127,7 @@ Max.addHandler('bang', () => {
     if (!isProcessing) {
         isProcessing = true;
         Max.post('Sending interpolation request...');
-        sendBuffersForInterpolation('C:/g4l/myBuffer.wav', 'C:/g4l/myBuffer2.wav', xValue);
+        sendBuffersForInterpolation('C:/latent-mixer/myBuffer.wav', 'C:/latent-mixer/myBuffer2.wav', xValue);
     } else {
         Max.post('Processing already in progress.');
     }
